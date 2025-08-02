@@ -1,5 +1,5 @@
 # 🇮🇳 License Plate Recognition + VAHAN Vehicle Info 🔍
-# This is for ACADEMIC PURPOSE ONLY 
+# This is a group project under SN Bose Intership
 This project uses **Deep Learning**, **OpenCV**, and **EasyOCR** to detect Indian vehicle license plates from uploaded images. Once recognized, the system queries the **VAHAN API (API Setu)** to fetch real-time vehicle information — all built with a simple **Flask web interface**.
 
 ---
